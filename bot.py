@@ -2,8 +2,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, CallbackQueryHandler, filters
 import requests
 
-API_KEY = "95322bda9bc75bcc606cc857f02875c0"
-BOT_TOKEN = "8369827490:AAHM2UJ4-Igfg2-NUMIFBNqKmD6B5HvVsNA"
+API_KEY = "NumVerify API"
+BOT_TOKEN = "Bot Father API"
 
 # Dictionary to track validation count per user
 user_limits = {}
