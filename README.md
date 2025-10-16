@@ -92,7 +92,7 @@ This project is licensed under the MIT License – feel free to modify and use i
 
 ⭐ Credits
 
-Developed by @encryptedgallery26
+Developed by @encryptedgallery26(by aayush parekh)
 💡 Powered by NumVerify API
 
 
